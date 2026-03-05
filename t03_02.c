@@ -11,7 +11,7 @@ int main() {
     // Membaca nilai n
     scanf("%d", &n);
 
-    // Alokasi memori untuk menyimpan nilai-nilai
+    // Alokasi memori untuk menan nilai-nilai
     // Kita perlu menyimpan nilai untuk iterasi kedua (menghitung yang di atas rata-rata)
     scores = (int *)malloc(n * sizeof(int));
     if (scores == NULL) {

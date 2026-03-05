@@ -41,7 +41,7 @@ int main() {
         average = 0.0; // Jika n adalah 0, rata-rata juga 0
     }
 
-    // Menghitung banyaknya mahasiswa yang nilainya di atas atau sama dengan rata-rata
+    // Menghitung banyaknya mahasiswa yang ni atas atau sama dengan rata-rata
     for (i = 0; i < n; i++) {
         if (scores[i] >= average) {
             count_above_average++;

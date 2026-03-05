@@ -22,7 +22,7 @@ int main() {
         average = 0.0; // Jika n adalah 0, rata-rata juga 0
     }
 
-    // Mencetak total nilai
+    
     printf("%lld\n", sum);
 
     // Mencetak rata-rata dengan 2 digit presisi di belakang koma
